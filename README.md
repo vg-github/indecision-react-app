@@ -2,7 +2,15 @@
 
 A sample of a React UI based on The Complete React Web Developer Course (with Redux) training course on Udemy ([link](https://www.udemy.com/react-2nd-edition/)). 
 
-Allows adding and removing options and validates input. Stores data into `localStorage`. Runs with `babel` and `webpack`.
+Allows adding and removing options and validates input. Stores data into `localStorage`.
+
+To run:
+```
+git clone git@github.com:vg-github/react-indecision-app.git
+cd react-indecision-app
+yarn install 
+yarn run dev-server
+```
 
 Desktop UI:
 
