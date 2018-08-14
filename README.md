@@ -12,10 +12,4 @@ yarn install
 yarn run dev-server
 ```
 
-Desktop UI:
-
-![Desktop Version](https://raw.githubusercontent.com/vg-github/indecision-react-app/master/docs/desktop.png)
-
-Mobile Variant: 
-
 ![Mobile Version](https://raw.githubusercontent.com/vg-github/indecision-react-app/master/docs/mobile.png)
